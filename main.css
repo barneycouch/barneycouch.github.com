@@ -31,3 +31,10 @@ a {
 	border-style: none none solid none;
 	border-color: #C0C0C0;
 }
+
+h2 {font-size: 1.4em;}
+
+p {margin-bottom: 5%;}
+
+ul {list-style-type: circle;}
+li {line-height: 1.8em;}
