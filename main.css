@@ -4,8 +4,8 @@ body {
 	font-family: 'EB Garamond', serif;
 	font-size: 1.5em;
 	font-weight: 400;
-/*	font: 1.35em Hoefler Text, "Times New Roman", Times, serif; */
-	line-height: 1.5em;
+/*	font: 1.35em Hoefler Text, "Times New Roman", Times, serif; 
+*/	line-height: 1.75em;
 	color: #333;
 	background: #fff; 
 
@@ -38,3 +38,21 @@ p {margin-bottom: 5%;}
 
 ul {list-style-type: circle;}
 li {line-height: 1.8em;}
+
+
+/*footer classes*/
+
+.footer {
+	margin-top: 7.5%;
+}
+
+.footer a {
+	font-size: 0.75em;
+	border: none;
+}
+
+.footer a:hover{
+	border-width: 0 0 1px 0;
+	border-style: none none solid none;
+	border-color: #C0C0C0;
+}
