@@ -1,13 +1,18 @@
 /* credz to http://mnmlist.com/ for amazing style */
 
+img {
+	max-width: 100%;
+	margin-bottom: 2%;
+}
+
 body {
 	font-family: 'EB Garamond', serif;
 	font-size: 1.5em;
 	font-weight: 400;
-/*	font: 1.35em Hoefler Text, "Times New Roman", Times, serif; 
+/*	font: 1.35em Hoefler Text, "Times New Roman", Times, serif;
 */	line-height: 1.75em;
 	color: #333;
-	background: #fff; 
+	background: #fff;
 
 	max-width: 30em;
 /*	overflow: hidden; couldn't scroll down! */
