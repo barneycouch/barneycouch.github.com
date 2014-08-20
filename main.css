@@ -26,8 +26,10 @@ h1 {
 	font-size: 1.4em;
 	font-weight: normal;
 	line-height: 1.5em;
-	margin-bottom: 7.5%;
+	margin-bottom: 5%;
 }
+
+h2 {font-size: 1.4em;}
 
 a {
 	color: #303030;
@@ -36,8 +38,6 @@ a {
 	border-style: none none solid none;
 	border-color: #C0C0C0;
 }
-
-h2 {font-size: 1.4em;}
 
 p {margin-bottom: 5%;}
 
